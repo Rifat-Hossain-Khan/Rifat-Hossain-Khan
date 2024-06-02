@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-hossain-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-hossain-khan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat-hossain-khan" alt="rifat-hossain-khan" /></a> </p>
-
 - 🔭 I’m currently working on [CHEQ App](https://app.cheqplease.com/)
 
 - 🌱 I’m currently learning **Test Driven Development, Next 14, Micro Services**
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **rifat.hk889@gmail.com**
 
-- ⚡ Fun fact **I love to play guitar when I'm board.**
+- ⚡ Fun fact **I love to play guitar when I'm bored.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
